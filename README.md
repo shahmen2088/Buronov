@@ -1,26 +1,44 @@
-<h1 align="center">Hello there, it's Shokhrukh</h1>
-<h3 align="center">A frontend developer</h3>
+<h1>Hi, everyone. I’m Buronov Shokhrukh 👋</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<div>
+  <p><b>I am a frontend-developer</b></p>
+</div>
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theermek&show_icons=true&locale=en&layout=compact" alt="Theermek" /></p>
+### Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-Styles-orange?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square&logo=git)](https://git-scm.com/)
+[![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-blueviolet?style=flat-square&logo=webpack)](https://webpack.js.org/)
+[![React](https://img.shields.io/badge/React-Library-blue?style=flat-square&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-State%20Management-purple?style=flat-square&logo=redux)](https://redux.js.org/)
 
-<p align="right">
-  <p>
-    <a href="https://t.me/khanBuronov"><img src="https://img.shields.io/badge/Buronov%20Akelov-41454a?&logo=telegram&logoColor=ffffff%22"></a>
-  </p>
-  <p>
-    <a href="https://vk.com/id816489994"><img src="https://img.shields.io/badge/Buronov%20Akelov-4680C2?logo=vk&logoColor=ffffff%22"></a>
-  </p>
-</p>
+### Stats:                                                                                                                                                                                                                                        
+![image](https://www.codewars.com/users/shahmen2088/badges/small)
+[![LeetCode user jesyscyclist](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjesyscyclist&logo=leetcode&logoColor=yellow)](https://leetcode.com/shahmen2088/)
+                                                                                                                                
+### My pet projects:
+<h4>
+   <a href=https://github.com/shahmen2088/astone-project>Bookstore</a>
+    - News application with authentication.
+</h4> 
+<h4>
+   <a href=https://github.com/shahmen2088/frontend-project-44>frontend-project-44</a>
+    - Asciinema.
+</h4> 
+<h4>
+   <a href=https://github.com/shahmen2088/react-first-project>TO DO LIST</a>
+</h4> 
+ 
+
+                                                                                                                                
+<div>
+  <h3>🤝 Connect with me:</h3>
+  <h4>Telegram: <a href=https://t.me/khanBuronov>@khanBuronov</a></h4>                                                                                                           
+  <h4>E-Mail: <a href="mailto:shoxrux20888@mail.ru">shoxrux20888@mail.ru</a></h4>                                                                                                       
+ </div>
+<!---
+--->
