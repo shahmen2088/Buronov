@@ -26,11 +26,15 @@ ___
     - News application with authentication.
 </h4> 
 <h4>
-   <a href=https://github.com/shahmen2088/frontend-project-44>frontend-project-44</a>
+   <a href=https://github.com/shahmen2088/picasso_project>Lists of posts</a>
+    - The project is a list of posts using virtualization.
+</h4> 
+<h4>
+   <a href=https://github.com/shahmen2088/frontend-project-44>Frontend-project-44 (Hexlet)</a>
     - Asciinema.
 </h4> 
 <h4>
-   <a href=https://github.com/shahmen2088/react-first-project>TO DO LIST</a>
+   <a href=https://github.com/shahmen2088/react-first-project>To-do list</a>
 </h4> 
  
 
