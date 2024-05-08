@@ -7,10 +7,9 @@
 ___
 
 ### Languages and Tools:
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-Styles-orange?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square&logo=git)](https://git-scm.com/)
 [![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-blueviolet?style=flat-square&logo=webpack)](https://webpack.js.org/)
 [![React](https://img.shields.io/badge/React-Library-blue?style=flat-square&logo=react)](https://reactjs.org/)
