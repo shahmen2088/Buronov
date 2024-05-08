@@ -30,8 +30,9 @@ ___
 ![image](https://www.codewars.com/users/shahmen2088/badges/small)
 [![LeetCode user jesyscyclist](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjesyscyclist&logo=leetcode&logoColor=yellow)](https://leetcode.com/shahmen2088/)
 
-![Stat](https://github-readme-stats.vercel.app/api?username={shahmen2088}&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={shahmen2088}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=shahmen2088&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmen2088&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmen2088&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
                                                                                                                                 
 ### My pet projects:
 <h4>
