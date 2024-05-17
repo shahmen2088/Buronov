@@ -39,10 +39,15 @@ ___
 
                                                                                                                          
 ### My pet projects:
+
 <h4>
    <a href=https://github.com/shahmen2088/astone-project>Bookstore</a>
     - News application with authentication.
 </h4> 
+<h4>
+   <a href=https://github.com/shahmen2088/lesta-project>Мир Кораблей</a>
+    - The project provides an opportunity to view all the ships from the game "World of Ships".
+</h4>
 <h4>
    <a href=https://github.com/shahmen2088/picasso_project>Lists of posts</a>
     - The project is a list of posts using virtualization.
