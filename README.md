@@ -37,8 +37,19 @@ ___
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmen2088&theme=blue-green)
 <br/>
 
+### My projects are in pure javascript, css and html
+
+<h4>
+   <a href=https://github.com/shahmen2088/test-frontend>Movie</a>
+    - Online cinema.
+</h4> 
+
+<h4>
+   <a href=https://github.com/shahmen2088/pinkchicken-project.io>PinkChicken</a>
+    - The site offers a wide range of media planning services for your business or company.
+</h4> 
                                                                                                                          
-### My pet projects:
+### My projects are made using various libraries and frameworks:
 
 <h4>
    <a href=https://github.com/shahmen2088/astone-project>Bookstore</a>
